@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.casxter.clionplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.casxter.clionplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
